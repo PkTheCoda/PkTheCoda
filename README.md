@@ -6,15 +6,13 @@ I'm Pranav, a sophomore and rising junior in highschool based out of Virginia in
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> 
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff">
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=fff">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">
+<h5>I couldn't find an icon for Java, but yeah, I've worked with it in the past</h5>
 
 <h4>Frameworks I've used/use</h4>
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff"> 
 <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=fff">
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=Svelte&logoColor=fff">
-
-<h3>Languages I have programmed with in the past:</h3>
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=fff">
-<h5>I couldn't find an icon for Java, but yeah, I've worked with it in the past</h5>
 
 <h2>Here are some random stats:</h2>
 

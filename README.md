@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Pranav, a current highschooler based out of Virginia in the USA. I mainly have a focus for languages revolving around Web Development like JavaScript and Frameworks like React and Svelte. However, I also have a good amount of experience in more back-end languages like Python and Java!
+I'm Pranav, a current highschooler based out of Virginia in the USA. I mainly have a focus for languages revolving around Web Development like JavaScript and Frameworks like React and Svelte. However, I also have a good amount of experience in more back-end languages like Python and Java! You can view my portfolio [here](https://pranavkonjeti.crd.co)
 
 <h3>Languages I would say i'm pretty good with:</h3>
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> 
@@ -13,6 +13,11 @@ I'm Pranav, a current highschooler based out of Virginia in the USA. I mainly ha
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff"> 
 <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=Tailwind CSS&logoColor=fff">
 <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=Svelte&logoColor=fff">
+
+I am also very experience with Wordpress! Over the past few months, I have been working on this website called [learntheweb.org](https://learntheweb.org). The goal of the website is to spread CS education across the world through interactive courses, workshops, lessons, projects, and much more! It's not much, but it's a passion project I'm proud of.
+<br>
+<br>
+<img src="https://img.shields.io/badge/-WordPress-21759B?logo=WordPress&logoColor=fff">
 
 <h2>Here are some random stats:</h2>
 

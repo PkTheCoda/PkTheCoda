@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Pranav, a sophomore and rising junior in highschool based out of Virginia in the USA. I mainly have a focus for languages revolving around Web Development like JavaScript and Frameworks like React and Svelte. However, I also have a good amount of experience in more back-end languages like Python and Java!
+I'm Pranav, a current highschooler based out of Virginia in the USA. I mainly have a focus for languages revolving around Web Development like JavaScript and Frameworks like React and Svelte. However, I also have a good amount of experience in more back-end languages like Python and Java!
 
 <h3>Languages I would say i'm pretty good with:</h3>
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> 

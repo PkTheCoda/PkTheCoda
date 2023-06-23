@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Pranav, a current highschooler based out of Virginia in the USA. I mainly have a focus for languages revolving around Web Development like HTML, CSS, and JavaScript along with Frameworks like React and Svelte. However, I also have a good amount of experience in more back-end languages like Python and Java! You can view my portfolio [here](https://pranavkonjeti.carrd.co)
+I'm Pranav, a current highschooler based out of Virginia in the USA. I mainly have a focus for languages revolving around Web Development like HTML, CSS, and JavaScript along with Frameworks like React and Svelte. However, I also have a good amount of experience in more back-end languages like Python and Java! You can view my portfolio [here](https://pranavkonjeti.carrd.co) (The portfolio is pretty bad right now, but I'm currently custom-coding one and you'll see that soon!)
 
 <h3>Languages I would say i'm pretty good with:</h3>
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"> 

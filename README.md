@@ -15,8 +15,9 @@ For my backend, I'll normally use MongoDB with Express (MERN) or if I'm feeling 
 
 
 <h2>For those that for some reason care about GitHub statistics, here you go:</h2>
-<p>The numbers _may_ be a bit off since I have a lot of private repos!</p>
+<p>The numbers may be a bit off since I have a lot of private repos!</p>
 
 [![](https://raw.githubusercontent.com/PkTheCoda/PkTheCoda/master/profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/PkTheCoda/PkTheCoda/master/profile-summary-card-output/prussian/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PkTheCoda/PkTheCoda/master/profile-summary-card-output/prussian/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/PkTheCoda/PkTheCoda/master/profile-summary-card-output/prussian/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PkTheCoda/PkTheCoda/master/profile-summary-card-output/prussian/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+

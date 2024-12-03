@@ -13,7 +13,7 @@ Want to see everything I've built? You can [take a look at my portfolio](https:/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="100"/>
 
-For my backend, I'll normally use MongoDB with Express (MERN) or, if I'm feeling lazy, Supabase!
+For my backend, I'll generally use MongoDB with Express (MERN) or, if I'm feeling lazy, Supabase!
 
 
 <h2>For those that, for some reason, care about GitHub statistics, here you go:</h2>

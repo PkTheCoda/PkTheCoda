@@ -2,10 +2,10 @@
 
 I'm Pranav Konjeti, a current 17-year old highschooler based out of Virginia. I'm very passionate about web development. Throughout the past year, I've made over 20 different websites - some for my clients, others for problems that I see daily.
 
-One of the apps that I'm most proud of is **Talem**, an app that helps high schoolers find extracurriculars, internships, college programs, and more. You can [find it here](https://talem.org).
+One of the apps I'm most proud of is **Talem**, which helps high schoolers find extracurriculars, internships, college programs, and more. You can [find it here](https://talem.org).
 Want to see everything I've built? You can [take a look at my portfolio](https://pranavkonjeti.com).
 
-**P.S:** Many of my repositories, including private startups/projects (projects I've made for clients) are not public. If you're interested in seeing some more of my work, please send me a message! 
+**P.S:** Many of my repositories, including private startups/projects (projects I've made for clients) are not public. If you're interested in seeing some more of my work, please send me a message!
 
 <h3>Here's my current tech stack at the moment!</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="100"/>

@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Pranav Konjeti, a current 17-year old highschooler based out of Virginia. I'm very passionate about web development. Throughout the past year, I've made over 20 different websites - some for my clients, others for problems that I see daily.
+I'm Pranav Konjeti, a current 17-year old highschooler based out of Virginia. I'm very passionate about web development. Throughout the past year, I've made over 20 different websites - some for my clients, others for problems that I see daily. This fall, I'll be attending UIUC as a CS major!
 
 One of the apps I'm most proud of is **Talem**, which helps high schoolers find extracurriculars, internships, college programs, and more. You can [find it here](https://talem.org).
 Want to see everything I've built? You can [take a look at my portfolio](https://pranavkonjeti.com).

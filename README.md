@@ -1,9 +1,9 @@
 ### Hey there! 👋
 
-I'm Pranav Konjeti, a current 17-year old highschooler based out of Virginia. I'm very passionate about web development. Throughout the past year, I've made over 20 different websites - some for my clients, others for problems that I see daily. This fall, I'll be attending UIUC majoring in Computer Science.
+I'm Pranav Konjeti; I'm 17 and based out of Virginia. I'm very passionate about web development. Throughout the past year, I've made over 20 different websites - some for my clients, others for problems that I see daily. I'm currently studying Computer Science at UIUC as a freshman!
 
 One of the apps I'm most proud of is **Talem**, which helps high schoolers find extracurriculars, internships, college programs, and more. You can [find it here](https://talem.org).
-Want to see everything I've built? You can [take a look at my portfolio](https://pranavkonjeti.com).
+Want to see everything I've built? You can [take a look at my portfolio](https://me.pranavkonjeti.com).
 
 **P.S:** Many of my repositories, including private startups/projects (projects I've made for clients) are not public. If you're interested in seeing some more of my work, please send me a message!
 

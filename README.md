@@ -1,13 +1,10 @@
 ### Hey there! 👋
 
-I'm Pranav Konjeti; I'm 17 and based out of Virginia. I'm very passionate about web development. Throughout the past year, I've made over 20 different websites - some for my clients, others for problems that I see daily. I'm currently studying Computer Science at UIUC as a freshman!
+I'm Pranav Konjeti; I'm 18 and based out of Richmond, Virginia. I focus on building impactful EdTech with an emphasis on UI/UX and design. You can find most of my work [on my portfolio](https://me.pranavkonjeti.com).
 
-One of the apps I'm most proud of is **Talem**, which helps high schoolers find extracurriculars, internships, college programs, and more. You can [find it here](https://talem.org).
-Want to see everything I've built? You can [take a look at my portfolio](https://me.pranavkonjeti.com).
+##### **Many of my repositories, including private startups/projects (projects I've made for clients) are not public. If you're interested in seeing some more of my work, please send me a message!
 
-**P.S:** Many of my repositories, including private startups/projects (projects I've made for clients) are not public. If you're interested in seeing some more of my work, please send me a message!
-
-<h3>Here's my current tech stack at the moment!</h3>
+<h3>Current tech stack:</h3>
 <p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60"/>
@@ -15,7 +12,7 @@ Want to see everything I've built? You can [take a look at my portfolio](https:/
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60"/>
 </p>
 
-For my backend, I'll generally use MongoDB with Express (MERN) or, if I'm feeling lazy, Supabase!
+For a backend, I'll mainly use Supabase + PostgreSQL or Firebase (NoSQL).
 
 [![](https://raw.githubusercontent.com/PkTheCoda/PkTheCoda/master/profile-summary-card-output/prussian/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/PkTheCoda/PkTheCoda/master/profile-summary-card-output/prussian/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PkTheCoda/PkTheCoda/master/profile-summary-card-output/prussian/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

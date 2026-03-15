@@ -2,8 +2,6 @@
 
 I'm Pranav Konjeti; I'm 18 and based out of Richmond, Virginia. I focus on building impactful EdTech with an emphasis on UI/UX and design. You can find most of my work [on my portfolio](https://pranavkonjeti.com).
 
-##### **Many of my repositories, including private startups/projects (projects I've made for clients) are not public. If you're interested in seeing some more of my work, please send me a message!
-
 <h3>Current tech stack:</h3>
 <p style="display: flex; gap: 20px; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" height="60"/>
